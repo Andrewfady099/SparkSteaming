@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Apr 27 15:29:53 AST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0187-c2b1-02f6-00000a404bc8 
+on database directory /home/ejada/Downloads/flink-1.3.3-bin-hadoop2-scala_2.11/flink-1.3.3/bin/spark1/metastore_db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/ejada/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Red Hat, Inc.
+java.runtime.version=1.8.0_352-b08
+user.dir=/home/ejada/Downloads/flink-1.3.3-bin-hadoop2-scala_2.11/flink-1.3.3/bin/spark1
+os.name=Linux
+os.arch=amd64
+os.version=4.18.0-425.3.1.el8.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
